@@ -1,4 +1,4 @@
-package Programming;
+package Programming.Arrays;
 
 public class FindLongestString {
 	

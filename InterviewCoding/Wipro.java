@@ -62,7 +62,7 @@ has context menu
     }
 
 
-    //Time
+    //Time O(n^2) and Space O(1)
     public static int CalProfit(int[] Prices)
    {
       int maxProfit = 0;

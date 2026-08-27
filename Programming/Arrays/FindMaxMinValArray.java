@@ -1,6 +1,5 @@
-package Programming;
+package Programming.Arrays;
 
-import java.awt.geom.Area;
 import java.util.Arrays;
 
 public class FindMaxMinValArray {
